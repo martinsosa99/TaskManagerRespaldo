@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskManager.UpdateTaskPage">
+
+    <ScrollView>
+
+        <VerticalStackLayout Spacing="50">
+
+            <Label
+               Padding="25"
+                Text="Update task"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center"
+           />
+
+            <Entry
+                x:Name="TaskIdEntry"
+                Placeholder="Task Id"
+                CursorPosition="2"
+                SelectionLength="10"
+                Margin="20,0,20,0"
+            />
+
+            <Entry
+                x:Name="TaskNameEntry"
+                Placeholder="Task name"
+                CursorPosition="2"
+                SelectionLength="10"
+                Margin="20,0,20,0"
+            />
+
+            <DatePicker
+                x:Name="TaskDateEntry" Margin="20,0,20,0" HorizontalOptions="Center"
+            />
+
+            <Button
+                x:Name="updateTaskBtn"
+
+                Text="Update"
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnUpdateTaskBtnClicked"
+                HorizontalOptions="Center"
+            /> 
+
+            <Label
+                x:Name="MessageLbl"
+                Text=""
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="18"
+                HorizontalOptions="Center"
+            />
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>

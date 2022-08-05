@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskManager.MenuPage">
+
+    <ScrollView>
+
+        <VerticalStackLayout Spacing="20">
+
+            <Label
+               Padding="10"
+                Text="Main Menu"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center"
+            />
+
+            <Button
+                x:Name="addTaskBtn"
+                Margin="0,90,0,0"
+                Text="Add task"
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="Center"
+                Clicked="OnAddTaskBtnClicked"
+            />
+
+           <Button
+                x:Name="updateTaskBtn"
+                Text="Update task"
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="Center"
+                Clicked="OnUpdateTaskBtnClicked"
+            />
+
+            <Button
+                x:Name="deleteTaskBtn"
+
+                Text="Delete task"
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="Center"
+                Clicked="OnDeleteTaskBtnClicked"
+            />
+
+            <Button
+                x:Name="viewTasksBtn"
+                Text="View tasks"
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="Center"
+                Clicked="OnViewTasksBtnClicked"
+            />
+		
+	        <Button
+                x:Name="logoutBtn"
+                Text="Log out"
+                SemanticProperties.Hint="Counts the number of times you click"
+                HorizontalOptions="Center"
+                Clicked="OnLogoutBtnClicked"
+            />
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>

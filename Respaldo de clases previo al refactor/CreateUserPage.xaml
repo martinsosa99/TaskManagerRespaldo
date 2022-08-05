@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskManager.CreateUserPage">
+
+    <ScrollView>
+
+        <VerticalStackLayout Spacing="50">
+
+            <Label
+               Padding="50"
+                Text="Create User"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center"
+            />
+
+            <Entry x:Name="emailAddressEntry"
+                Placeholder="Email address"
+                CursorPosition="2"
+                SelectionLength="10"
+                Margin="20,0,20,20"
+            />
+
+            <Entry x:Name="passwordEntry"
+                Placeholder="Password"
+                IsPassword="true"
+                Margin="20,0,20,20"
+            />
+
+            <Button
+                x:Name="CreateUserBtn"
+                Text="Continue"
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCreateUserBtnClicked"
+                HorizontalOptions="Center"
+            /> 
+
+            <Label
+                x:Name="messageLabel"
+                Text=""
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="18"
+                HorizontalOptions="Center"
+            />
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>
