@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DataAccess/TaskManager.DataAccess.csproj": {}
+  },
+  "projects": {
+    "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DataAccess/TaskManager.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DataAccess/TaskManager.DataAccess.csproj",
+        "projectName": "TaskManager.DataAccess",
+        "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DataAccess/TaskManager.DataAccess.csproj",
+        "packagesPath": "/Users/martinsosa/.nuget/packages/",
+        "outputPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/martinsosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/TaskManager.IDataAccess.csproj": {
+                "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/TaskManager.IDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj",
+        "projectName": "TaskManager.Domain",
+        "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj",
+        "packagesPath": "/Users/martinsosa/.nuget/packages/",
+        "outputPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/martinsosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/TaskManager.IDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/TaskManager.IDataAccess.csproj",
+        "projectName": "TaskManager.IDataAccess",
+        "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/TaskManager.IDataAccess.csproj",
+        "packagesPath": "/Users/martinsosa/.nuget/packages/",
+        "outputPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/martinsosa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj": {
+                "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

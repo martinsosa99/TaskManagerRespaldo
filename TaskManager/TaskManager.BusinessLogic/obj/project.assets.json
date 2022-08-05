@@ -1,0 +1,172 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TaskManager.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TaskManager.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManager.Domain.dll": {}
+        }
+      },
+      "TaskManager.Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TaskManager.Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManager.Exceptions.dll": {}
+        }
+      },
+      "TaskManager.IBusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TaskManager.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskManager.IBusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManager.IBusinessLogic.dll": {}
+        }
+      },
+      "TaskManager.IDataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TaskManager.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskManager.IDataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManager.IDataAccess.dll": {}
+        }
+      },
+      "TaskManager.Validators/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TaskManager.Domain": "1.0.0",
+          "TaskManager.Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskManager.Validators.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskManager.Validators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManager.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TaskManager.Domain/TaskManager.Domain.csproj",
+      "msbuildProject": "../TaskManager.Domain/TaskManager.Domain.csproj"
+    },
+    "TaskManager.Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../TaskManager.Exceptions/TaskManager.Exceptions.csproj",
+      "msbuildProject": "../TaskManager.Exceptions/TaskManager.Exceptions.csproj"
+    },
+    "TaskManager.IBusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../TaskManager.IBusinessLogic/TaskManager.IBusinessLogic.csproj",
+      "msbuildProject": "../TaskManager.IBusinessLogic/TaskManager.IBusinessLogic.csproj"
+    },
+    "TaskManager.IDataAccess/1.0.0": {
+      "type": "project",
+      "path": "../TaskManager.IDataAccess/TaskManager.IDataAccess.csproj",
+      "msbuildProject": "../TaskManager.IDataAccess/TaskManager.IDataAccess.csproj"
+    },
+    "TaskManager.Validators/1.0.0": {
+      "type": "project",
+      "path": "../TaskManager.Validators/TaskManager.Validators.csproj",
+      "msbuildProject": "../TaskManager.Validators/TaskManager.Validators.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TaskManager.Exceptions >= 1.0.0",
+      "TaskManager.IBusinessLogic >= 1.0.0",
+      "TaskManager.IDataAccess >= 1.0.0",
+      "TaskManager.Validators >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/martinsosa/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.BusinessLogic/TaskManager.BusinessLogic.csproj",
+      "projectName": "TaskManager.BusinessLogic",
+      "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.BusinessLogic/TaskManager.BusinessLogic.csproj",
+      "packagesPath": "/Users/martinsosa/.nuget/packages/",
+      "outputPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.BusinessLogic/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/martinsosa/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Exceptions/TaskManager.Exceptions.csproj": {
+              "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Exceptions/TaskManager.Exceptions.csproj"
+            },
+            "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IBusinessLogic/TaskManager.IBusinessLogic.csproj": {
+              "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IBusinessLogic/TaskManager.IBusinessLogic.csproj"
+            },
+            "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/TaskManager.IDataAccess.csproj": {
+              "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/TaskManager.IDataAccess.csproj"
+            },
+            "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/TaskManager.Validators.csproj": {
+              "projectPath": "/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/TaskManager.Validators.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400-preview.22330.6/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/bin/Release/net6.0/TaskManager.IDataAccess.deps.json
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/bin/Release/net6.0/TaskManager.IDataAccess.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/bin/Release/net6.0/TaskManager.IDataAccess.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/bin/Release/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/bin/Release/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.csproj.AssemblyReference.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.AssemblyInfoInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.AssemblyInfo.cs
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.csproj.CopyComplete
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/refint/TaskManager.IDataAccess.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/TaskManager.IDataAccess.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.IDataAccess/obj/Release/net6.0/ref/TaskManager.IDataAccess.dll

@@ -1,0 +1,17 @@
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/bin/Debug/net6.0/TaskManager.Validators.deps.json
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/bin/Debug/net6.0/TaskManager.Validators.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/bin/Debug/net6.0/TaskManager.Validators.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/bin/Debug/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/bin/Debug/net6.0/TaskManager.Exceptions.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/bin/Debug/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/bin/Debug/net6.0/TaskManager.Exceptions.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.csproj.AssemblyReference.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.AssemblyInfoInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.AssemblyInfo.cs
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.csproj.CopyComplete
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/refint/TaskManager.Validators.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/TaskManager.Validators.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Validators/obj/Debug/net6.0/ref/TaskManager.Validators.dll

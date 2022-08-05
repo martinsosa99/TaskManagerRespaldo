@@ -1,0 +1,15 @@
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/bin/Release/net6.0/TaskManager.DTO.deps.json
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/bin/Release/net6.0/TaskManager.DTO.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/bin/Release/net6.0/TaskManager.DTO.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/bin/Release/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/bin/Release/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.csproj.AssemblyReference.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.AssemblyInfoInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.AssemblyInfo.cs
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.csproj.CopyComplete
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/refint/TaskManager.DTO.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/TaskManager.DTO.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.DTO/obj/Release/net6.0/ref/TaskManager.DTO.dll

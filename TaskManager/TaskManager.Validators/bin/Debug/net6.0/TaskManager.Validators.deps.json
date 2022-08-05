@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaskManager.Validators/1.0.0": {
+        "dependencies": {
+          "TaskManager.Domain": "1.0.0",
+          "TaskManager.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "TaskManager.Validators.dll": {}
+        }
+      },
+      "TaskManager.Domain/1.0.0": {
+        "runtime": {
+          "TaskManager.Domain.dll": {}
+        }
+      },
+      "TaskManager.Exceptions/1.0.0": {
+        "runtime": {
+          "TaskManager.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManager.Validators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskManager.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

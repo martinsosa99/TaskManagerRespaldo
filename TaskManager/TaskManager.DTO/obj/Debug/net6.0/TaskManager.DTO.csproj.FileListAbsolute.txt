@@ -1,0 +1,15 @@
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/bin/Debug/net6.0/TaskManager.DTO.deps.json
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/bin/Debug/net6.0/TaskManager.DTO.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/bin/Debug/net6.0/TaskManager.DTO.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/bin/Debug/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/bin/Debug/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.csproj.AssemblyReference.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.AssemblyInfoInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.AssemblyInfo.cs
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.csproj.CopyComplete
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/refint/TaskManager.DTO.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/TaskManager.DTO.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.DTO/obj/Debug/net6.0/ref/TaskManager.DTO.dll

@@ -1,0 +1,12 @@
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/bin/Debug/net6.0/TaskManager.Exceptions.deps.json
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/bin/Debug/net6.0/TaskManager.Exceptions.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/bin/Debug/net6.0/TaskManager.Exceptions.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/TaskManager.Exceptions.csproj.AssemblyReference.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/TaskManager.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/TaskManager.Exceptions.AssemblyInfoInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/TaskManager.Exceptions.AssemblyInfo.cs
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/TaskManager.Exceptions.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/TaskManager.Exceptions.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/refint/TaskManager.Exceptions.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/TaskManager.Exceptions.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.Exceptions/obj/Debug/net6.0/ref/TaskManager.Exceptions.dll

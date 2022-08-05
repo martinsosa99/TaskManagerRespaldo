@@ -1,0 +1,15 @@
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/bin/Debug/net6.0/TaskManager.IBusinessLogic.deps.json
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/bin/Debug/net6.0/TaskManager.IBusinessLogic.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/bin/Debug/net6.0/TaskManager.IBusinessLogic.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/bin/Debug/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/bin/Debug/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.csproj.AssemblyReference.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.AssemblyInfoInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.AssemblyInfo.cs
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.csproj.CopyComplete
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/refint/TaskManager.IBusinessLogic.dll
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/TaskManager.IBusinessLogic.pdb
+/Users/martinsosa/Downloads/Server-TaskManager-develop/TaskManager/TaskManager.IBusinessLogic/obj/Debug/net6.0/ref/TaskManager.IBusinessLogic.dll

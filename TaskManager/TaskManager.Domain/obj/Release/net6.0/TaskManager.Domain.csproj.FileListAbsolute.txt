@@ -1,0 +1,12 @@
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/bin/Release/net6.0/TaskManager.Domain.deps.json
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/bin/Release/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/bin/Release/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/TaskManager.Domain.csproj.AssemblyReference.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/TaskManager.Domain.AssemblyInfoInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/TaskManager.Domain.AssemblyInfo.cs
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/TaskManager.Domain.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/refint/TaskManager.Domain.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Domain/obj/Release/net6.0/ref/TaskManager.Domain.dll

@@ -1,0 +1,17 @@
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/bin/Release/net6.0/TaskManager.Validators.deps.json
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/bin/Release/net6.0/TaskManager.Validators.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/bin/Release/net6.0/TaskManager.Validators.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/bin/Release/net6.0/TaskManager.Domain.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/bin/Release/net6.0/TaskManager.Exceptions.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/bin/Release/net6.0/TaskManager.Domain.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/bin/Release/net6.0/TaskManager.Exceptions.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.csproj.AssemblyReference.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.AssemblyInfoInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.AssemblyInfo.cs
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.csproj.CopyComplete
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/refint/TaskManager.Validators.dll
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/TaskManager.Validators.pdb
+/Users/martinsosa/Desktop/TaskManagerRespaldo/TaskManager/TaskManager.Validators/obj/Release/net6.0/ref/TaskManager.Validators.dll
